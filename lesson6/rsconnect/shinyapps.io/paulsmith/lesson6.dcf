@@ -1,0 +1,11 @@
+name: lesson6
+title:
+username:
+account: paulsmith
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7749548
+bundleId: 6563173
+url: https://paulsmith.shinyapps.io/lesson6/
+when: 1669651531.73628
+lastSyncTime: 1669651531.73629
